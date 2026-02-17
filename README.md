@@ -4,7 +4,7 @@
 
 🔗 Find my writings over [here](YOUR_BLOG_LINK)
 
-![Coding Banner](./68d30da750ead6c575d9c95d_Group11.webp)
+![Coding Banner](./banner.jpg)
 
 Passionate about writing clean and maintainable code that adheres to industry standards and best practices. Always eager to learn new technologies and stay up-to-date with the latest trends in tech.
 
