@@ -1,4 +1,4 @@
-# 🌐 Hello World 👋, I'm Kiran!
+# 🌐 Hello World 👋, I'm Akash!
 
 🌱 I Write Code as a Javascript developer. Specialized in Reactjs, Nextjs.
 
